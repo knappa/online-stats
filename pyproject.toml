@@ -7,6 +7,7 @@ name = "online-stats"
 version = "0.1.0"
 description = "Online mean and covariance statistics via the Welford/Chan algorithm"
 readme = "README.md"
+license = "MIT"
 requires-python = ">=3.9"
 dependencies = [
     "numpy>=1.21",

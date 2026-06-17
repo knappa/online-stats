@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: online-stats
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Adam C.
+    family-names: Knapp
+    email: adam.knapp@medicine.ufl.edu
+    affiliation: University of Florida
+    orcid: 'https://orcid.org/0000-0002-5719-6003'
+repository-code: 'https://github.com/knappa/online-stats'
+abstract: >-
+  Online mean and covariance statistics via the Welford/Chan
+  algorithm, generalized to vector-valued data and to
+  combining independent batches.
+keywords:
+  - statistics
+  - online-algorithms
+  - welford-algorithm
+license: MIT
+version: 0.1.0
